@@ -1,4 +1,14 @@
-# SQL基础（一）
+---
+title: 06. SQL基础（一）
+tags:
+  - sixdegreelab
+  - dune
+  - onchain analysis
+  - sql
+  - transaction
+---
+
+# 6. SQL基础（一）
 
 ## 基础概念
 **1、数据仓库是什么？**  

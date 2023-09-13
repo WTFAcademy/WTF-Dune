@@ -1,4 +1,14 @@
-# SQL基础（二）
+---
+title: 07. SQL基础（二）
+tags:
+  - sixdegreelab
+  - dune
+  - onchain analysis
+  - sql
+  - transaction
+---
+
+# 7. SQL基础（二）
 
 在“SQL基础（一）”部分我们介绍了一些SQL的基础知识，包括SQL查询语句的基础结构语法说明、日期时间、分组聚合、子查询和关联查询等内容。接下来我们继续介绍一些常用的SQL基础知识点。
 

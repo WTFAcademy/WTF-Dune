@@ -1,4 +1,13 @@
-# 创建第一个Dune数据看板
+---
+title: 04. 创建Dune数据看板
+tags:
+  - sixdegreelab
+  - dune
+  - onchain analysis
+  - dashboard
+  - uniswap
+---
+# 4 创建第一个Dune数据看板
 
 在上一篇“[新手上路](../02_get_started/readme.md)”中，我们学习了创建第一个数据看板需要的预备知识，掌握了基础SQL查询的编写技巧。现在让我们一起来编写查询并创建一个Dune数据看板。为了帮助大家更快上手实践，我们这个数据看板将结合具体的项目来制作。完成后的数据看板的示例：[https://dune.com/sixdegree/uniswap-v3-pool-tutorial](https://dune.com/sixdegree/uniswap-v3-pool-tutorial)。
 

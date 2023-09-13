@@ -1,4 +1,13 @@
-# 实践案例：制作Lens Protocol的数据看板（一）
+---
+title: 08. Lens Protocol数据看板（一）
+tags:
+  - sixdegreelab
+  - dune
+  - onchain analysis
+  - lens
+---
+
+# 8. 实践案例：制作Lens Protocol的数据看板（一）
 
 为了让大家尽快上手开始数据分析，我们会将一些偏理论的内容放到教程的后续部分，前半部分则更多讲解一些可以结合起来实践的内容。本篇教程我们一起来为Lens Protocol项目制作一个数据看板。
 
